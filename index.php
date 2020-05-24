@@ -11,6 +11,9 @@ if(isset($_POST["action"])){
 <meta name="description" content=""> <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title> React Editor </title> 
+<link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet">
+<script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 <link rel="stylesheet" href="css/main.css"> </head> 
 <body> 
