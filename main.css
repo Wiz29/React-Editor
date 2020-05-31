@@ -1,0 +1,23 @@
+.folder{
+  background-color:white;
+  color:black;
+  width:100%;
+  margin-bottom:5px;
+}
+.file{
+  color:black;
+}
+.cofolder{
+  background-color:grey;
+  opacity:0.8;
+  color:white;
+  max-height:100px;
+  overflow:auto;
+  text-overflow:auto;
+  border-radius:5px;
+  display:none;
+}
+.expand{
+  height:50px;
+  overflow:auto;
+}
